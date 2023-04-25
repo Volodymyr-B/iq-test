@@ -1,0 +1,14 @@
+html,
+body {
+  background-color: rgb(34, 33, 33);
+  color: white;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+:root {
+  --color-main: rgba(255, 255, 255, 1);
+  --color-secondary: rgba(255, 199, 0, 1);
+  --color-disabled: rgba(218, 218, 218, 1);
+  --color-success: rgba(59, 222, 124, 1);
+}
